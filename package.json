@@ -1,7 +1,7 @@
 {
   "name": "webs",
   "version": "0.1.0",
-  "homepage": "https://piya46.github.io/webs/",
+  "homepage": "https://piya46.github.io/webs/page.tsx",
   "private": true,
   "scripts": {
     "dev": "next dev",
